@@ -1,0 +1,22 @@
+{
+  "name": "PJTestLibRemote",
+  "version": "0.1.0",
+  "summary": "A short description of PJTestLibRemote.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PeterJames4719/PJTestLibRemote",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PeterJames4719": "wubing0220@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/PeterJames4719/PJTestLibRemote.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PJTestLibRemote/Classes/**/*"
+}

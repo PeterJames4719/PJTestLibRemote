@@ -1,0 +1,6 @@
+framework module Pods_PJTestLibRemote_Tests {
+  umbrella header "Pods-PJTestLibRemote_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

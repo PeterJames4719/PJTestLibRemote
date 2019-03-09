@@ -1,0 +1,16 @@
+PODS:
+  - PJTestLibRemote (0.1.0)
+
+DEPENDENCIES:
+  - PJTestLibRemote (from `../`)
+
+EXTERNAL SOURCES:
+  PJTestLibRemote:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PJTestLibRemote: e8d3511157b86a62005b09d9c1be9f7243100c8c
+
+PODFILE CHECKSUM: d13a6e9a09259fd47e08970c055430e766b61469
+
+COCOAPODS: 1.5.0
